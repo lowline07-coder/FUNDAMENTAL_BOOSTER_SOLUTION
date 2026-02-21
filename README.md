@@ -1,2 +1,2 @@
 # FUNDAMENTAL_BOOSTER_SOLUTION
-First Normal Project on EXCEL.
+First Normal Project on EXCEL.This project demonstrates advanced Excel functions including XLOOKUP, DATE, YEAR, TEXT, DATEDIF, Conditional Formatting, and Data Analysis tools to analyze employee data dynamically. It allows users to fetch salary using Employee ID or Name and calculates service duration automatically. Built as part of a practical Excel analytics exercise.
